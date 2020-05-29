@@ -5,7 +5,7 @@ and the Binomial distribution.
 
 The main folder is the distributions folder.
 
-* distribution
+* distributions
     * __pycache__
     * __init__.py
     * Binomialdistribution.py
